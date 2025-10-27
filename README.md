@@ -22,3 +22,9 @@ Agora o Git salva um ponto de restauração com essa mensagem.
 💡 Dica: cada commit deve ter uma mensagem clara, como:
 
 git commit -m "Adiciona seção de login ao site"
+
+🔍 4. Ver o histórico de commits
+git log --oneline (PARA SAIR DO PAGINADOR APERTE A TECLA "Q")
+
+
+Mostra os commits já feitos e seus códigos de identificação.
