@@ -28,3 +28,23 @@ git log --oneline (PARA SAIR DO PAGINADOR APERTE A TECLA "Q")
 
 
 Mostra os commits já feitos e seus códigos de identificação.
+
+🧭 5. Ver status atual
+git status
+
+
+Exibe:
+
+Quais arquivos mudaram
+
+Quais estão prontos pro commit
+
+Quais ainda não foram adicionados
+
+🧹 6. Ignorar arquivos (opcional)
+
+Crie um arquivo chamado .gitignore e adicione o que não deve ir pro GitHub, exemplo:
+
+node_modules/
+.vscode/
+*.log
