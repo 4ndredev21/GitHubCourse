@@ -48,3 +48,8 @@ Crie um arquivo chamado .gitignore e adicione o que não deve ir pro GitHub, exe
 node_modules/
 .vscode/
 *.log
+
+🏁 7. Conectar ao GitHub
+git remote add origin https://github.com/SEU-USUARIO/SEU-REPO.git
+git branch -M main
+git push -u origin main
